@@ -3,7 +3,7 @@
   <groupId>com.ncodeit.oraclexe</groupId>
   <artifactId>EmpList_oraclexe</artifactId>
   <packaging>war</packaging>
-  <version>1.6-SNAPSHOT</version>
+  <version>1.6</version>
   <name>EmpList_oraclexe Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -34,7 +34,7 @@
     <connection>scm:git:git@github.com:ncdsys/EmpList_oraclexe.git</connection>
     <developerConnection>scm:git:git@github.com:ncdsys/EmpList_oraclexe.git</developerConnection>
     <url>https://github.com/ncdsys/EmpList_oraclexe.git</url>
-    <tag>HEAD</tag>
+    <tag>EmpList_oraclexe-1.6</tag>
   </scm>  
   <build>
     <finalName>EmpList_oraclexe</finalName>
